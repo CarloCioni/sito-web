@@ -1,0 +1,23 @@
+.container {
+    width: 1160px;
+    margin: 0px;
+    background-color:#1F2937 ;
+    padding: 150px;
+    display: flex;
+  }
+  .card {
+    width: 400px;
+    height: 300px;
+    background-color: #1F2937;
+    margin-right: auto;
+    color: #fff;
+    font-size: 30px;
+    border: 0px;
+    padding: 0px;
+  }
+  
+
+
+
+
+ 
