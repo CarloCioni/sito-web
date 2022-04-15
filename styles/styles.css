@@ -23,6 +23,11 @@
     top: 10px;
     left: 700px;
     color: #fff;
+    display: flex;
+  }
+  .link {
+    width: 200px;
+    background-color: #1F2937;
   }
   .card-1 {
     width: 400px;
