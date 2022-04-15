@@ -5,6 +5,16 @@
     padding: 150px;
     display: flex;
   }
+  .logo {
+    width: 200px;
+    height: 100px;
+    background-color: #1F2937;
+    color: #fff;
+    position: absolute;
+    top: 10px;
+    left: 150px;
+    
+  }
   .card-1 {
     width: 400px;
     height: 300px;
