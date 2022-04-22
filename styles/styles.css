@@ -64,6 +64,14 @@
   padding: 150px;
   display: flex;
 }
+.header {
+  background-color: peachpuff;
+  width: 1460px;
+  line-height: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+}
 
 .box {
   width: 200px;
@@ -71,10 +79,7 @@
   background-color: lightyellow;
   margin-right: auto;
   margin-left: auto;
-  font-size: 30px;
   border-radius: 30px;
-  padding: 0px;
-  display: flex;
   border: 2px solid;
 }
 .container-3 {
@@ -101,6 +106,7 @@
   line-height: 200px;
   color: #fff;
 }
+
 .immagine-birilli {
   width: 400px;
 }
