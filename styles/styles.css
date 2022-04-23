@@ -64,14 +64,6 @@
   padding: 150px;
   display: flex;
 }
-.header {
-  background-color: peachpuff;
-  width: 1460px;
-  line-height: 100px;
-  height: 100px;
-  text-align: center;
-  font-size: 30px;
-}
 
 .box {
   width: 200px;
@@ -110,3 +102,18 @@
 .immagine-birilli {
   width: 400px;
 }
+/* 
+.parent {
+  width: 500px;
+  height: 300px;
+  background-color: aqua;
+  display: flex;
+  gap: 3px;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+} */
