@@ -38,7 +38,7 @@
   border: 0px;
   padding: 0px;
 }
-.button {
+.button1 {
   background-color: blue;
   text-align: center;
   width: 100px;
@@ -63,14 +63,13 @@
   background-color: peachpuff;
   padding: 150px;
   display: flex;
+  gap: 110px;
 }
 
 .box {
   width: 200px;
   height: 200px;
   background-color: lightyellow;
-  margin-right: auto;
-  margin-left: auto;
   border-radius: 30px;
   border: 2px solid;
 }
@@ -95,12 +94,18 @@
   margin-left: auto;
   border-radius: 30px;
   text-align: center;
-  line-height: 200px;
   color: #fff;
+}
+.button2 {
+  background-color: rgba(255, 81, 0, 0.815);
+  text-align: center;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
 }
 
 .immagine-birilli {
-  width: 400px;
+  width: 500px;
 }
 /* 
 .parent {
